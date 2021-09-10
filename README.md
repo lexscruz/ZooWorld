@@ -41,12 +41,19 @@ A clínica veterinária “Zoo World” quer implementar um sistema desenvolvido
 Solicita-se a realização da modelagem de cada uma dessas classes, levando em consideração suas relações e a interação entre cada uma delas. Implementar (nas devidas classes) os métodos necessários para:
 
 ● Cadastrar médicos;
+
 ● Cadastrar proprietários;
+
 ● Cadastrar pacientes;
+
 ● Criar uma nova consulta;
+
 ● Ver a lista de todos os pacientes registrados junto com seus proprietários. A lista deve estar ordenada em ordem crescente de nome do proprietário do animal;
+
 ● Ver a lista de todas as consultas atribuídas a um determinado paciente. A lista deve estar ordenada pela data da consulta, em ordem decrescente.
+
 ● Ver o total de consultas atribuídas a cada um dos médicos.
+
 ● Ver a lista de todas as consultas marcadas para um mesmo dia. 
 
 É importante mostrar dados relevantes do animal (paciente), do proprietário e do médico. A lista deve estar ordenada em ordem crescente de data e hora.
